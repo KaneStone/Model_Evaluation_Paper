@@ -5,4 +5,5 @@ Model Evaluation.tex
 Discussion.tex
 Conclusion.tex
 Acknowledgements.tex
+figures/SAM_index_seasons3/SAM_index_seasons3.png
 figures/Total_column1/Total_column1.png
