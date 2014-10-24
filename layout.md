@@ -9,3 +9,4 @@ figures/SAM_index_seasons3/SAM_index_seasons3.png
 figures/Total_column1/Total_column1.png
 figures/Melbourne_REF_C1_Ozonesonde/Melbourne_REF_C1_Ozonesonde.png
 figures/Macquarie_REF_C1_Ozonesonde/Macquarie_REF_C1_Ozonesonde.png
+figures/Davis_REF_C1_Ozonesonde/Davis_REF_C1_Ozonesonde.png
