@@ -11,4 +11,3 @@ figures/Macquarie_REF_C1_Ozonesonde3/Macquarie_REF_C1_Ozonesonde3.png
 figures/Davis_REF_C1_Ozonesonde4/Davis_REF_C1_Ozonesonde4.png
 figures/Seasons1/Seasons1.png
 test.md
-tets.tex
