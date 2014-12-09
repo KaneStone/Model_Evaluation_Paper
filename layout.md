@@ -8,3 +8,4 @@ Acknowledgements.tex
 figures/Total_column1/Total_column1.png
 figures/Melbourne_REF_C1_Ozonesonde4/Melbourne_REF_C1_Ozonesonde4.png
 figures/Macquarie_REF_C1_Ozonesonde3/Macquarie_REF_C1_Ozonesonde3.png
+figures/Davis_REF_C1_Ozonesonde3/Davis_REF_C1_Ozonesonde3.png
