@@ -7,4 +7,3 @@ Conclusion.tex
 Acknowledgements.tex
 figures/Total_column1/Total_column1.png
 figures/Davis_REF_C1_Ozonesonde4/Davis_REF_C1_Ozonesonde4.png
-figures/Seasons1/Seasons1.png
