@@ -11,3 +11,4 @@ figures/Macquarie_REF_C1_Ozonesonde6/Macquarie_REF_C1_Ozonesonde6.png
 figures/Davis_REF_C1_Ozonesonde6/Davis_REF_C1_Ozonesonde6.png
 figures/Seasons_convert_from_svg/Seasons_convert_from_svg.png
 figures/UWind_anomaly_after_inkscape1/UWind_anomaly_after_inkscape1.png
+figures/toc/toc.png
